@@ -7,8 +7,18 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Codes"
+    url: /codes/
+
+  - title: "Academic Services"
+    url: /services/
+
+  - title: "Awards & Honors"
+    url: /awards/
+
+
+#  - title: "Talks"
+#    url: /talks/
 
 #  - title: "Teaching"
 #    url: /teaching/
