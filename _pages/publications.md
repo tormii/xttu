@@ -95,7 +95,7 @@ Liangdong Yang, Jinxin Liu, <b>Zhibin Zhao</b>, Ruqiang Yan and Xuefeng Chen<br>
 
 <i>Nonlinear Dynamics</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('yang2019interval')" class="textlink">[bibtex]</a>
 <a href="https://link.springer.com/article/10.1007/s11071-019-05243-8" class="textlink" target="_blank">[link]</a>
 
@@ -125,7 +125,7 @@ Botao An, <b>Zhibin Zhao</b>, Shibin Wang, Shaowen Chen and Xuefeng Chen<br>
 
 <i>ISA transactions</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('an2019sparsity')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S001905781930388X" class="textlink" target="_blank">[link]</a>
 
@@ -154,7 +154,7 @@ Botao An, <b>Zhibin Zhao</b>, Shibin Wang, Shaowen Chen and Xuefeng Chen<br>
 
 <i>ISA transactions</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('zhao2019hierarchical')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S001905781930268X" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/ZhaoZhibin/HHLP-for-weak-fault-feature-enhancement" class="textlink" target="_blank">[codes]</a>
@@ -183,7 +183,7 @@ Shuming Wu, <b>Zhibin Zhao</b>, Zhibo Yang, Shaohua Tian, Laihao Yang and Xuefen
 
 <i>Measurement</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('wu2019physical')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0263224119305597" class="textlink" target="_blank">[link]</a>
 </p>
@@ -211,7 +211,7 @@ Shuming Wu, <b>Zhibin Zhao</b>, Zhibo Yang, Shaohua Tian, Laihao Yang and Xuefen
 
 <i>Journal of Sound and Vibration</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('zhao2019weighted')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022460X19300586" class="textlink" target="_blank">[link]</a>
 </p>
@@ -241,7 +241,7 @@ Baijie Qiao, Zhu Mao, Jinxin Liu, <b>Zhibin Zhao</b> and Xuefeng Chen<br>
 
 <i>Journal of Sound and Vibration</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('qiao2019group')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022460X19300045" class="textlink" target="_blank">[link]</a>
 </p>
@@ -271,7 +271,7 @@ Yanjie Guo, <b>Zhibin Zhao</b>, Ruobin Sun and Xuefeng Chen<br>
 
 <i>Wind Energy</i>,
 
-2019<br>
+2019. <span style="color:red">(Cover)</span><br>
 <a href="javascript:toggleBibtex('guo2019data')" class="textlink">[bibtex]</a>
 <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/we.2309" class="textlink" target="_blank">[link]</a>
 </p>
@@ -302,7 +302,7 @@ Yanjie Guo, <b>Zhibin Zhao</b>, Ruobin Sun and Xuefeng Chen<br>
 
 <i>IEEE Transactions on Instrumentation and Measurement</i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('zhao2019sparse')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8675767" class="textlink" target="_blank">[link]</a>
 </p>
@@ -330,7 +330,7 @@ Lei Yang, Yunfei Wang, Yanjie Guo, Weiqiang Zhang and <b>Zhibin Zhao</b><br>
 
 <i>Advanced Materials Interfaces</i>,
 
-2019<br>
+2019. <span style="color:red">(Cover)</span><br>
 <a href="javascript:toggleBibtex('yang2019robust')" class="textlink">[bibtex]</a>
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.201901547" class="textlink" target="_blank">[link]</a>
 </p>
@@ -358,7 +358,7 @@ Chuang Sun, Meng Ma, <b>Zhibin Zhao</b>, Shaohua Tian, Ruqiang Yan and Xuefeng C
 
 <i>IEEE Transactions on Industrial Informatics</i>,
 
-2018<br>
+2018.<br>
 <a href="javascript:toggleBibtex('sun2018deep')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8540073" class="textlink" target="_blank">[link]</a>
 </p>
@@ -388,7 +388,7 @@ Chuang Sun, Meng Ma, <b>Zhibin Zhao</b>, Shaohua Tian, Ruqiang Yan and Xuefeng C
 
 <i>IEEE Transactions on Industrial Electronics</i>,
 
-2018<br>
+2018.<br>
 <a href="javascript:toggleBibtex('zhao2018enhanced')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8365091" class="textlink" target="_blank">[link]</a>
 </p>
@@ -420,7 +420,7 @@ Chuang Sun, Meng Ma, <b>Zhibin Zhao</b> and Xuefeng Chen<br>
 
 <i>IEEE Transactions on Industrial Informatics</i>,
 
-2018<br>
+2018.<br>
 <a href="javascript:toggleBibtex('sun2018sparse')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8325506" class="textlink" target="_blank">[link]</a>
 </p>
@@ -451,7 +451,7 @@ Yanjie Guo, Xuefeng Chen, Shibin Wang, Ruobin Sun and <b>Zhibin Zhao</b><br>
 
 <i>Sensors</i>,
 
-2017<br>
+2017.<br>
 <a href="javascript:toggleBibtex('guo2017wind')" class="textlink">[bibtex]</a>
 <a href="https://www.mdpi.com/1424-8220/17/5/1149" class="textlink" target="_blank">[link]</a>
 </p>
@@ -480,9 +480,9 @@ Yanjie Guo, Xuefeng Chen, Shibin Wang, Ruobin Sun and <b>Zhibin Zhao</b><br>
 <b>Matching synchrosqueezing wavelet transform and application to aeroengine vibration monitoring</b><br>
 Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 
-<i>Sensors</i>,
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
 
-2017<br>
+2017.<br>
 <a href="javascript:toggleBibtex('wang2016matching')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/7765057" class="textlink" target="_blank">[link]</a>
 </p>
@@ -520,9 +520,9 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 <b>Blade Tip Timing: from Raw Data to Parameters Identification</b><br>
 Shuming Wu, Xuefeng Chen, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang and <b>Zhibin Zhao</b><br>
 
-<i>2019 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)<b></i>,
+<i>2019 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)</b></i>,
 
-2019<br>
+2019.<br>
 <a href="javascript:toggleBibtex('wu2019blade')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8827170" class="textlink" target="_blank">[link]</a>
 </p>
@@ -549,9 +549,9 @@ Shuming Wu, Xuefeng Chen, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang 
 <b>Bearing Fault Diagnosis Using Hyper-Laplacian Priors and Non-convex Optimization</b><br>
 <b>Zhibin Zhao</b>, Botao An, Shibin Wang, Baijie Qiao, Chuang Sun and Xuefeng Chen<br>
 
-<i>2018 Prognostics and System Health Management Conference <b>(PHM-Chongqing)<b></i>,
+<i>2018 Prognostics and System Health Management Conference <b>(PHM-Chongqing)</b></i>,
 
-2018<br>
+2018.<br>
 <a href="javascript:toggleBibtex('zhao2018bearing')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8603525" class="textlink" target="_blank">[link]</a>
 </p>
@@ -580,7 +580,7 @@ Shuming Wu, Xuefeng Chen, Pete Russhard, Shibin Wang, Zhi Zhai and <b>Zhibin Zha
 
 <i>ASME Turbo Expo 2018: Turbomachinery Technical Conference and Exposition</i>,
 
-2018<br>
+2018.<br>
 <a href="javascript:toggleBibtex('wu2018foreign')" class="textlink">[bibtex]</a>
 <a href="https://asmedigitalcollection.asme.org/GT/proceedings/GT2018/50985/V001T01A017/272263" class="textlink" target="_blank">[link]</a>
 </p>
@@ -606,9 +606,9 @@ Shuming Wu, Xuefeng Chen, Pete Russhard, Shibin Wang, Zhi Zhai and <b>Zhibin Zha
 <b>Periodic overlapping group elastic net for fault diagnosis</b><br>
 <b>Zhibin Zhao</b>, Xuefeng Chen, Shibin Wang and Shaohua Tian<br>
 
-<i>2018 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)</i>,
+<i>2018 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)</b></i>,
 
-2018<br>
+2018.<br>
 <a href="javascript:toggleBibtex('zhao2018periodic')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8409547" class="textlink" target="_blank">[link]</a>
 </p>
@@ -635,9 +635,9 @@ Shuming Wu, Xuefeng Chen, Pete Russhard, Shibin Wang, Zhi Zhai and <b>Zhibin Zha
 <b>TQWT-based multi-scale dictionary learning for rotating machinery fault diagnosis</b><br>
 <b>Zhibin Zhao</b>, Xuefeng Chen, Baoqing Ding and Shuming Wu<br>
 
-<i>2017 13th IEEE Conference on Automation Science and Engineering (CASE)</i>,
+<i>2017 13th IEEE Conference on Automation Science and Engineering <b>(CASE)</b></i>,
 
-2017<br>
+2017.<br>
 <a href="javascript:toggleBibtex('zhao2017tqwt')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8256162" class="textlink" target="_blank">[link]</a>
 </p>
@@ -664,9 +664,9 @@ Shuming Wu, Xuefeng Chen, Pete Russhard, Shibin Wang, Zhi Zhai and <b>Zhibin Zha
 <b>Data-driven discriminative K-SVD for bearing fault diagnosis</b><br>
 Shuming Wu, Xuefeng Chen, <b>Zhibin Zhao</b> and Ruonan Liu<br>
 
-<i>2017 Prognostics and System Health Management Conference (PHM-Harbin)</i>,
+<i>2017 Prognostics and System Health Management Conference <b>(PHM-Harbin)</b></i>,
 
-2017<br>
+2017.<br>
 <a href="javascript:toggleBibtex('wu2017data')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8079179" class="textlink" target="_blank">[link]</a>
 </p>
@@ -694,9 +694,9 @@ Shuming Wu, Xuefeng Chen, <b>Zhibin Zhao</b> and Ruonan Liu<br>
 <b>Feature ensemble learning using stacked denoising autoencoders for induction motor fault diagnosis</b><br>
 Junwei Wang, Chuang Sun, <b>Zhibin Zhao</b> and Xuefeng Chen<br>
 
-<i>2017 Prognostics and System Health Management Conference (PHM-Harbin)</i>,
+<i>2017 Prognostics and System Health Management Conference <b>(PHM-Harbin)</b></i>,
 
-2017<br>
+2017.<br>
 <a href="javascript:toggleBibtex('wang2017feature')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8079196" class="textlink" target="_blank">[link]</a>
 </p>

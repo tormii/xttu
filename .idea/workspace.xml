@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef9a15a-15bb-47c3-a794-56757859074c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_pages/awards.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/codes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/services.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/publications.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper3.pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +35,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_pages/publications.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-3976">
-                <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="87" column="47" lean-forward="true" selection-start-line="87" selection-start-column="47" selection-end-line="87" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -62,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_pages/cv.md" />
         <option value="$PROJECT_DIR$/_pages/contact.md" />
         <option value="$PROJECT_DIR$/_pages/awards.md" />
@@ -71,13 +59,14 @@
         <option value="$PROJECT_DIR$/_pages/services.md" />
         <option value="$PROJECT_DIR$/_pages/codes.md" />
         <option value="$PROJECT_DIR$/_pages/publications.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="19" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="511" />
     <option name="y" value="23" />
-    <option name="width" value="1661" />
+    <option name="width" value="1169" />
     <option name="height" value="986" />
   </component>
   <component name="ProjectView">
@@ -106,6 +95,11 @@
               <item name="ZhaoZhibin.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZhaoZhibin.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZhaoZhibin.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZhaoZhibin.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_publications" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,11 +145,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="986" extended-state="6" />
+    <frame x="511" y="23" width="1169" height="986" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16335142" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23606272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -191,13 +185,6 @@
             <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -321,6 +308,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_publications/2010-10-01-paper-title-number-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="454">
+            <caret line="696" column="78" selection-start-line="696" selection-start-column="78" selection-end-line="696" selection-end-column="78" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/codes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -331,13 +336,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/publications.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-3976">
-            <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="87" column="47" lean-forward="true" selection-start-line="87" selection-start-column="47" selection-end-line="87" selection-end-column="47" />
         </state>
       </provider>
     </entry>
