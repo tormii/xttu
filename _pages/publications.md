@@ -307,6 +307,7 @@ Yanjie Guo, <b>Zhibin Zhao</b>, Ruobin Sun and Xuefeng Chen<br>
 2019.<br>
 <a href="javascript:toggleBibtex('zhao2019sparse')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8675767" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/SMPGL" class="textlink" target="_blank">[codes]</a>
 </p>
 
 <div id="bib_zhao2019sparse" class="bibtex noshow">
@@ -393,6 +394,7 @@ Chuang Sun, Meng Ma, <b>Zhibin Zhao</b>, Shaohua Tian, Ruqiang Yan and Xuefeng C
 2018.<br>
 <a href="javascript:toggleBibtex('zhao2018enhanced')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8365091" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/AdaESPGL" class="textlink" target="_blank">[codes]</a>
 </p>
 
 <div id="bib_zhao2018enhanced" class="bibtex noshow">

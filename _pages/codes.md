@@ -17,4 +17,5 @@ You can also browse my [Github Profile](https://github.com/ZhaoZhibin)
 
 * [Hierarchical Hyper-Laplacian Prior](https://github.com/ZhaoZhibin/HHLP-for-weak-fault-feature-enhancement)
 * [Weight Multi-Scale Dictionary Learning](https://github.com/ZhaoZhibin/Weighted_Multi-Scale_Dictionary_Learning)
-
+* [sparse multiperiod group lasso](https://github.com/ZhaoZhibin/SMPGL)
+* [adaptive enhanced sparse period-group lasso](https://github.com/ZhaoZhibin/AdaESPGL)
