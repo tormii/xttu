@@ -186,6 +186,7 @@ Shuming Wu, <b>Zhibin Zhao</b>, Zhibo Yang, Shaohua Tian, Laihao Yang and Xuefen
 2019.<br>
 <a href="javascript:toggleBibtex('wu2019physical')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0263224119305597" class="textlink" target="_blank">[link]</a>
+
 </p>
 
 <div id="bib_wu2019physical" class="bibtex noshow">
@@ -214,6 +215,7 @@ Shuming Wu, <b>Zhibin Zhao</b>, Zhibo Yang, Shaohua Tian, Laihao Yang and Xuefen
 2019.<br>
 <a href="javascript:toggleBibtex('zhao2019weighted')" class="textlink">[bibtex]</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S0022460X19300586" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/Weighted_Multi-Scale_Dictionary_Learning" class="textlink" target="_blank">[codes]</a>
 </p>
 
 <div id="bib_zhao2019weighted" class="bibtex noshow">

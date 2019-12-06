@@ -16,4 +16,5 @@ You can also browse my [Github Profile](https://github.com/ZhaoZhibin)
 <b>Algorithms</b>.
 
 * [Hierarchical Hyper-Laplacian Prior](https://github.com/ZhaoZhibin/HHLP-for-weak-fault-feature-enhancement)
+* [Weight Multi-Scale Dictionary Learning](https://github.com/ZhaoZhibin/Weighted_Multi-Scale_Dictionary_Learning)
 
