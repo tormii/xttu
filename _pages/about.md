@@ -27,3 +27,5 @@ as well as their applications in fault diagnosis, condition monitoring and healt
 
 
 ## Recent News
+* December 24, 2019. One paper titled
+"The sparse and low-rank interpretation of SVD-based denoising for vibration signals" was accepted to [I2MTC 2020](https://i2mtc2020.ieee-ims.org/)
