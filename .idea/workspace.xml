@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef9a15a-15bb-47c3-a794-56757859074c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/codes.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/codes.md" afterDir="false" />
-    </list>
+    <list default="true" id="fef9a15a-15bb-47c3-a794-56757859074c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +14,8 @@
         <entry file="file://$PROJECT_DIR$/_pages/codes.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -54,7 +50,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="61" />
     <option name="width" value="1680" />
-    <option name="height" value="411" />
+    <option name="height" value="594" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -132,7 +128,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="61" width="1680" height="544" extended-state="0" />
+    <frame x="0" y="61" width="1680" height="594" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23086196" />
@@ -323,8 +319,8 @@
     <entry file="file://$PROJECT_DIR$/_pages/codes.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
