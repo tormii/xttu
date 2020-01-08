@@ -50,6 +50,32 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
 
 
+<!-- Item: zhao2019unsupervised -->
+<li ><p>
+<b>Unsupervised Deep Transfer Learning for Intelligent Fault Diagnosis: An Open Source and Comparative Study</b><br>
+<b>Zhibin Zhao</b>, Qiyang Zhang, Xiaolei Yu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>arXiv preprint arXiv:1912.12528</i>,
+
+2019<br>
+<a href="javascript:toggleBibtex('zhao2019unsupervised')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/1912.12528" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/ZhaoZhibin/UDTL" class="textlink" target="_blank">[codes]</a>
+</p>
+
+<div id="bib_zhao2019unsupervised" class="bibtex noshow">
+<pre>
+@article{zhao2019unsupervised,
+  title={Unsupervised Deep Transfer Learning for Intelligent Fault Diagnosis: An Open Source and Comparative Study},
+  author={Zhao, Zhibin and Zhang, Qiyang and Yu, Xiaolei and Sun, Chuang and Wang, Shibin and Yan, Ruqiang and Chen, Xuefeng},
+  journal={arXiv preprint arXiv:1912.12528},
+  year={2019}
+}
+</pre></div>
+</li>
+
+
+
 <!-- Item: li2019waveletkernelnet -->
 <li ><p>
 <b>WaveletKernelNet: An Interpretable Deep Neural Network for Industrial Intelligent Diagnosis</b><br>
@@ -63,7 +89,7 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 
 </p>
 
-<div id="bib_li2019waveletkernelnetd" class="bibtex noshow">
+<div id="bib_li2019waveletkernelnet" class="bibtex noshow">
 <pre>
 @article{li2019waveletkernelnet,
   title={WaveletKernelNet: An Interpretable Deep Neural Network for Industrial Intelligent Diagnosis},
@@ -73,6 +99,8 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 }
 </pre></div>
 </li>
+
+
 
 </ol>
 
@@ -316,7 +344,10 @@ Yanjie Guo, <b>Zhibin Zhao</b>, Ruobin Sun and Xuefeng Chen<br>
   title={Sparse Multiperiod Group Lasso for Bearing Multifault Diagnosis},
   author={Zhao, Zhibin and Wang, Shibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
   journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2019},
+  volume={69},
+  number={2},
+  pages={419--431},
+  year={2020},
   publisher={IEEE}
 }
 </pre></div>
