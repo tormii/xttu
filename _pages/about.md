@@ -27,5 +27,7 @@ as well as their applications in fault diagnosis, condition monitoring and healt
 
 
 ## Recent News
+* Jan. 20, 2020. One paper titled
+"An Adaptive On-line Blade Health Monitoring Method: from Raw Data to Parameters Identification" was accepted to [TIM](https://ieeexplore.ieee.org/document/8962182)
 * December 24, 2019. One paper titled
 "The sparse and low-rank interpretation of SVD-based denoising for vibration signals" was accepted to [I2MTC 2020](https://i2mtc2020.ieee-ims.org/)

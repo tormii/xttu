@@ -113,6 +113,33 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 <ol class="biblist">
 
 
+<!-- Item: wu2020adaptive -->
+<li ><p>
+<b>An Adaptive On-line Blade Health Monitoring Method: from Raw Data to Parameters Identification</b><br>
+Shuming Wu, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang, <b>Zhibin Zhao</b>, Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2019.<br>
+<a href="javascript:toggleBibtex('wu2020adaptive')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/8962182" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_wu2020adaptive" class="bibtex noshow">
+<pre>
+@article{wu2020adaptive,
+  title={An Adaptive On-line Blade Health Monitoring Method: from Raw Data to Parameters Identification},
+  author={Yang, Liangdong and Liu, Jinxin and Zhao, Zhibin and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  pages={1--1},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
 
 
 
