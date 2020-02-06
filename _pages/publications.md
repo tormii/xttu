@@ -130,9 +130,8 @@ Shuming Wu, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang, <b>Zhibin Zha
 <pre>
 @article{wu2020adaptive,
   title={An Adaptive On-line Blade Health Monitoring Method: from Raw Data to Parameters Identification},
-  author={Yang, Liangdong and Liu, Jinxin and Zhao, Zhibin and Yan, Ruqiang and Chen, Xuefeng},
+  author={Wu, Shuming and Russhard, Pete and Yan, Ruqiang and Tian, Shaohua and Wang, Shibin and Zhao, Zhibin and Chen, Xuefeng},
   journal={IEEE Transactions on Instrumentation and Measurement},
-  pages={1--1},
   year={2020},
   publisher={IEEE}
 }
