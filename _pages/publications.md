@@ -112,6 +112,33 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 ## Journal Publications
 <ol class="biblist">
 
+<!-- Item: wu2020adaptive -->
+<li ><p>
+<b>Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware</b><br>
+<b>Zhibin Zhao</b> Shibin Wang, Weixin Xu, Shuming Wu, David Wong, Xuefeng Chen<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('zhao2020sparsity')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/9007828" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/ZhaoZhibin/GSSA" class="textlink" target="_blank">[codes]</a>
+
+</p>
+
+<div id="bib_zhao2020sparsity" class="bibtex noshow">
+<pre>
+@article{zhao2020sparsity,
+  title={Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware},
+  author={Zhao, Zhibin and Wang, Shibin and Xu, Weixin and Wu, Shuming and Wong, David and Chen, Xuefeng},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
 
 <!-- Item: wu2020adaptive -->
 <li ><p>
@@ -120,7 +147,7 @@ Shuming Wu, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang, <b>Zhibin Zha
 
 <i>IEEE Transactions on Instrumentation and Measurement</i>,
 
-2019.<br>
+2020.<br>
 <a href="javascript:toggleBibtex('wu2020adaptive')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/document/8962182" class="textlink" target="_blank">[link]</a>
 
@@ -220,7 +247,9 @@ Botao An, <b>Zhibin Zhao</b>, Shibin Wang, Shaowen Chen and Xuefeng Chen<br>
   title={Hierarchical hyper-Laplacian prior for weak fault feature enhancement},
   author={Zhao, Zhibin and Wang, Shibin and An, Botao and Guo, Yanjie and Chen, Xuefeng},
   journal={ISA transactions},
-  year={2019},
+  volume={96},
+  pages={429--443},
+  year={2020},
   publisher={Elsevier}
 }
 </pre></div>

@@ -27,6 +27,8 @@ as well as their applications in fault diagnosis, condition monitoring and healt
 
 
 ## Recent News
+* Feb. 26, 2020. One paper titled
+"Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware" was accepted to [TIM](https://ieeexplore.ieee.org/document/9007828)
 * Jan. 20, 2020. One paper titled
 "An Adaptive On-line Blade Health Monitoring Method: from Raw Data to Parameters Identification" was accepted to [TIM](https://ieeexplore.ieee.org/document/8962182)
 * December 24, 2019. One paper titled
