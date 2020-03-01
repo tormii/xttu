@@ -27,6 +27,8 @@ as well as their applications in fault diagnosis, condition monitoring and healt
 
 
 ## Recent News
+* Mar. 01, 2020. One paper titled
+"Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection" was accepted to [TII](https://ieeexplore.ieee.org/document/9016153)
 * Feb. 26, 2020. One paper titled
 "Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware" was accepted to [TIM](https://ieeexplore.ieee.org/document/9007828)
 * Jan. 20, 2020. One paper titled

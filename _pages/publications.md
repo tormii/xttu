@@ -112,7 +112,32 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 ## Journal Publications
 <ol class="biblist">
 
-<!-- Item: wu2020adaptive -->
+<!-- Item: wu2020fault -->
+<li ><p>
+<b>Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection</b><br>
+Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan, Xuefeng Chen<br>
+
+<i>IEEE Transactions on Industrial Informatics</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('wu2020fault')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/9016153" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_wu2020fault" class="bibtex noshow">
+<pre>
+@article{wu2020fault,
+  title={Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection},
+  author={Wu, Jingyao and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Transactions on Industrial Informatics},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+<!-- Item: zhao2020sparsity -->
 <li ><p>
 <b>Sparsity-assisted Fault Feature Enhancement: Algorithm-aware versus Model-aware</b><br>
 <b>Zhibin Zhao</b> Shibin Wang, Weixin Xu, Shuming Wu, David Wong, Xuefeng Chen<br>
