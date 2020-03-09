@@ -56,7 +56,7 @@ function toggleBibtex(articleid) {
 
 <i>arXiv preprint arXiv:2003.03315</i>,
 
-2019<br>
+2020<br>
 <a href="javascript:toggleBibtex('zhao2020deep')" class="textlink">[bibtex]</a>
 <a href="https://arxiv.org/abs/2003.03315" class="textlink" target="_blank">[arXiv]</a>
 <a href="https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark" class="textlink" target="_blank">[codes]</a>
