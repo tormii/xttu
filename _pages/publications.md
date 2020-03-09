@@ -49,6 +49,30 @@ function toggleBibtex(articleid) {
 ## Preprints
 <ol class="biblist">
 
+<!-- Item: zhao2020deep -->
+<li ><p>
+<b>Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study</b><br>
+<b>Zhibin Zhao</b>, Tianfu Li, Jingyao Wu, Chuang Sun, Shibin Wang, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>arXiv preprint arXiv:2003.03315</i>,
+
+2019<br>
+<a href="javascript:toggleBibtex('zhao2020deep')" class="textlink">[bibtex]</a>
+<a href="https://arxiv.org/abs/2003.03315" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/ZhaoZhibin/DL-based-Intelligent-Diagnosis-Benchmark" class="textlink" target="_blank">[codes]</a>
+</p>
+
+<div id="bib_zhao2020deep" class="bibtex noshow">
+<pre>
+@article{zhao2020deep,
+  title={Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study},
+  author={Zhibin Zhao and Tianfu Li and Jingyao Wu and Chuang Sun and Shibin Wang and Ruqiang Yan and Xuefeng Chen},
+  journal={arXiv preprint arXiv:2003.03315},
+  year={2020}
+}
+</pre></div>
+</li>
+
 
 <!-- Item: zhao2019unsupervised -->
 <li ><p>
