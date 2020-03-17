@@ -27,6 +27,8 @@ as well as their applications in fault diagnosis, condition monitoring and healt
 
 
 ## Recent News
+* Mar. 17, 2020. One paper titled
+"Adaptive Channel Weighted CNN with Multi-Sensor Fusion for Condition Monitoring of Helicopter Transmission System" was accepted to [IEEE Sensors Journal](https://ieeexplore.ieee.org/document/9037361)
 * Mar. 01, 2020. One paper titled
 "Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection" was accepted to [TII](https://ieeexplore.ieee.org/document/9016153)
 * Feb. 26, 2020. One paper titled

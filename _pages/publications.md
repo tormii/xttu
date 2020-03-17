@@ -136,6 +136,33 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 ## Journal Publications
 <ol class="biblist">
 
+<!-- Item: li2020adaptive -->
+<li ><p>
+<b>Adaptive Channel Weighted CNN with Multi-Sensor Fusion for Condition Monitoring of Helicopter Transmission System</b><br>
+Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan, Xuefeng Chen<br>
+
+<i>IEEE Transactions on Industrial Informatics</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('li2020adaptive')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/9037361" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_li2020adaptive" class="bibtex noshow">
+<pre>
+@article{li2020adaptive,
+  title={Adaptive Channel Weighted CNN with Multi-Sensor Fusion for Condition Monitoring of Helicopter Transmission System},
+  author={Li, Tianfu and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={IEEE Sensors Journal},
+  year={2020},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+
 <!-- Item: wu2020fault -->
 <li ><p>
 <b>Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection</b><br>
