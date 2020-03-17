@@ -141,7 +141,7 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 <b>Adaptive Channel Weighted CNN with Multi-Sensor Fusion for Condition Monitoring of Helicopter Transmission System</b><br>
 Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan, Xuefeng Chen<br>
 
-<i>IEEE Transactions on Industrial Informatics</i>,
+<i>IEEE Sensors Journal</i>,
 
 2020.<br>
 <a href="javascript:toggleBibtex('li2020adaptive')" class="textlink">[bibtex]</a>
