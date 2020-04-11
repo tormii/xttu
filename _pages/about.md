@@ -27,6 +27,8 @@ as well as their applications in fault diagnosis, condition monitoring and healt
 
 
 ## Recent News
+* April 11, 2020. One paper titled
+"Time series clustering to examine presence of decrement in finger tapping bradykinesia" was accepted to [EMBC 2020](https://embc.embs.org/2020/)
 * Mar. 17, 2020. One paper titled
 "Adaptive Channel Weighted CNN with Multi-Sensor Fusion for Condition Monitoring of Helicopter Transmission System" was accepted to [IEEE Sensors Journal](https://ieeexplore.ieee.org/document/9037361)
 * Mar. 01, 2020. One paper titled

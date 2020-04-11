@@ -678,9 +678,6 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 <ol class="biblist">
 
 
-
-
-
 <!-- Item: wu2019blade -->
 <li ><p>
 <b>Blade Tip Timing: from Raw Data to Parameters Identification</b><br>
