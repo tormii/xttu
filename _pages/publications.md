@@ -110,6 +110,7 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 2019<br>
 <a href="javascript:toggleBibtex('li2019waveletkernelnet')" class="textlink">[bibtex]</a>
 <a href="https://arxiv.org/abs/1911.07925" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/HazeDT/WaveletKernelNet" class="textlink" target="_blank">[codes]</a>
 
 </p>
 

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am currently a visiting Ph.D. student at [University of Manchester](https://www.manchester.ac.uk/)
+* I am currently a visiting Ph.D. student in the Department of Computer Science and the Center for Health Informatics at [University of Manchester](https://www.manchester.ac.uk/)
 advised by Prof. [David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/) and Prof.
 [David Clifton](http://www.robots.ox.ac.uk/~davidc/).
 * I am a Ph.D. student in the [School of Mechanical Engineering](http://mec.xjtu.edu.cn/) 
