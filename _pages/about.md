@@ -16,7 +16,7 @@ advised by Prof. [David Wong](https://personalpages.manchester.ac.uk/staff/david
 at [Xi'an Jiaotong University](http://www.xjtu.edu.cn/), 
 advised by Prof. [Shibin Wang](http://gr.xjtu.edu.cn/web/wangshibin2008) and 
 Prof. [Xuefeng Chen](https://scholar.google.com/citations?user=h47O1xYAAAAJ&hl=zh-CN). 
-[[Curriculum Vitae](http://ZhaoZhibin.com/files/CV.pdf)] 
+[[Curriculum Vitae](http://ZhaoZhibin.github.io/files/CV.pdf)] 
 [[Google Scholar](https://scholar.google.com/citations?user=Dnq-8jEAAAAJ&hl=zh-CN)]
 * I received my Bachelor’s Degree in [Xi'an Jiaotong University](http://www.xjtu.edu.cn/).
 My undergraduate research advisor is Prof. [Xuefeng Chen](https://scholar.google.com/citations?user=h47O1xYAAAAJ&hl=zh-CN). 
