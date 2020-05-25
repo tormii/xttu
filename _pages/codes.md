@@ -18,6 +18,8 @@ for the "**[paper](https://arxiv.org/abs/2003.03315)**"
 
 
 <b>Algorithms</b>.
+* [FGPAA](https://github.com/ZhaoZhibin/FGPAA)
+for the "[**paper**](https://ieeexplore.ieee.org/document/9016153)"
 * [WaveletKernelNet](https://github.com/HazeDT/WaveletKernelNet)
 for the "[**paper**](https://arxiv.org/abs/1911.07925)"
 * [GSSA](https://github.com/ZhaoZhibin/GSSA)
