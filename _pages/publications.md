@@ -137,6 +137,35 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 ## Journal Publications
 <ol class="biblist">
 
+
+<!-- Item: williams2020discerning -->
+<li ><p>
+<b>The discerning eye of computer vision: Can it measure Parkinson's finger tap bradykinesia?</b><br>
+Stefan Williams, <b>Zhibin Zhao</b>, Awais Hafeez, David C. Wong, Samuel D. Relton, Hui Fang, Jane E. Alty<br>
+
+<i>Journal of the Neurological Sciences</i>,
+
+2020.<br>
+<a href="javascript:toggleBibtex('williams2020discerning')" class="textlink">[bibtex]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0022510X20303403" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_williams2020discerning" class="bibtex noshow">
+<pre>
+@article{williams2020discerning,
+  title={The discerning eye of computer vision: Can it measure Parkinson's finger tap bradykinesia?},
+  author={Williams, Stefan and Zhao, Zhibin and Hafeez, Awais and Wong, David C. and Relton, Samuel D. and Fang Hui and Alty Jane E.},
+  journal={Journal of the Neurological Sciences},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
+
+
+
 <!-- Item: li2020adaptive -->
 <li ><p>
 <b>Adaptive Channel Weighted CNN with Multi-Sensor Fusion for Condition Monitoring of Helicopter Transmission System</b><br>
