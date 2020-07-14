@@ -49,6 +49,7 @@ function toggleBibtex(articleid) {
 ## Preprints
 <ol class="biblist">
 
+
 <!-- Item: zhao2020deep -->
 <li ><p>
 <b>Deep Learning Algorithms for Rotating Machinery Intelligent Diagnosis: An Open Source Benchmark Study</b><br>
@@ -136,6 +137,32 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 
 ## Journal Publications
 <ol class="biblist">
+
+
+<!-- Item: wu2020few -->
+<li ><p>
+<b>Few-shot Transfer Learning for Intelligent Fault Diagnosis of Machine</b><br>
+Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+
+<i>arXiv preprint arXiv:2003.03315</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('wu2020few')" class="textlink">[bibtex]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0263224120307405?via%3Dihub" class="textlink" target="_blank">[arXiv]</a>
+<a href="https://github.com/ZhaoZhibin/Few-shot-Transfer-Learning" class="textlink" target="_blank">[codes]</a>
+</p>
+
+<div id="bib_wu2020few" class="bibtex noshow">
+<pre>
+@article{wu2020few,
+  title={Few-shot Transfer Learning for Intelligent Fault Diagnosis of Machine},
+  author={Wu, Jingyao and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Measurement},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
 
 
 <!-- Item: williams2020discerning -->
@@ -707,6 +734,33 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 
 ## Conference Publications
 <ol class="biblist">
+
+<!-- Item: zhao2020the -->
+<li ><p>
+<b>The sparse and low-rank interpretation of SVD-based denoising for vibration signals</b><br>
+Shuming Wu, Xuefeng Chen, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang and <b>Zhibin Zhao</b><br>
+
+<i>2020 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)</b></i>,
+
+2019.<br>
+<a href="javascript:toggleBibtex('zhao2020the')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/9129272" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="bib_zhao2020the" class="bibtex noshow">
+<pre>
+@inproceedings{zhao2020the,
+  title={The sparse and low-rank interpretation of SVD-based denoising for vibration signals},
+  author={Zhao, Zhibin and Wang, Shibin and Wong, David and Guo, Yanjie and Chen, Xuefeng},
+  booktitle={2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)},
+  pages={1--5},
+  year={2020},
+  organization={IEEE}
+}
+</pre></div>
+</li>
+
+
 
 
 <!-- Item: wu2019blade -->
