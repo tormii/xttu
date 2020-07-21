@@ -5,7 +5,7 @@ permalink: /codes/
 author_profile: true
 ---
 
-You  also browse my [Github Profile](https://github.com/ZhaoZhibin)
+You browse my [Github Profile](https://github.com/ZhaoZhibin)
 
 
 <b>Toolboxes</b>.
