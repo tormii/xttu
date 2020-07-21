@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhibin Zhao (赵志斌)"
+title                    : "Zhibin Zhao"
 title_separator          : "-"
 name                     : &name "Zhibin Zhao"
 description              : &description "Ph.D. Student, School of Mechanical Engineering, Xi'an Jiaotong University"
