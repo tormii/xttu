@@ -10,7 +10,7 @@ author_profile: true
 * IEEE Transactions on Signal Processing (TSP)
 * IEEE Transactions on Industrial Electronics (TIE)
 * Transactions on Instrumentation and Measurement (TIM)
-* Measurement
+
 <div style='display: none'>
 ## Conference Reviewer for
 
