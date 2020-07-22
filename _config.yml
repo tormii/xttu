@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhibin Zhao"
+title                    : "Xiaotong Tu (涂晓彤)"
 title_separator          : "-"
-name                     : &name "Zhibin Zhao"
-description              : &description "Ph.D. Student, School of Mechanical Engineering, Xi'an Jiaotong University"
-url                      : https://ZhaoZhibin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaotong Tu"
+description              : &description "Ph.D. Student, School of Mechanical Engineering, Shanghai Jiaotong University"
+url                      : https://tormii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ZhaoZhibin/ZhaoZhibin.github.io"
+repository               : "tormii/tormii.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,15 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhibin Zhao"
-  avatar           : "DSC_0215.JPG"
-  bio              : "Ph.D. candidate, School of Mechanical Engineering, Xi'an Jiaotong University"
-  location         : "Manchester, UK"
+  name             : "Xiaotong Tu"
+  avatar           : "DSC06115.JPG"
+  bio              : "Ph.D. candidate, School of Mechanical Engineering, Shanghai Jiaotong University"
+  location         : "Shanghai, CHN"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Dnq-8jEAAAAJ&hl=zh-CN"
-  email            : "zhaozhibin@stu.xjtu.edu.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Zhibin_Zhao5"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=5nE58tAAAAAJ&hl=zh-CN&newwindow=1"
+  email            : "tormii@sjtu.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Xiaotong_Tu2"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ZhaoZhibin"
+  github           : "tormii"
   google_plus      :
   keybase          :
   instagram        :
