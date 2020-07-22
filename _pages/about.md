@@ -19,7 +19,7 @@ My research interests are mainly in signal processing and motion detection.
 
 
 ## Recent News
-* July 13th, 2020 
+* July 13th, 2020<br> 
 One paper titled "Bayesian estimation of instantaneous speed for rotating machinery fault diagnosis" was accepted by [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41).
-* July 22th, 2020 
+* July 22th, 2020<br>
 I expect to finish the PhD defense (**Research on nonstationary signal time-frequency analysis of mechanical system with application to fault diagnosis**) next week.
