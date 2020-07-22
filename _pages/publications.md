@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also browse my [Google Scholar Profile](https://scholar.google.com.hk/citations?user=Dnq-8jEAAAAJ&hl=zh-CN).
+You can also browse my [Google Scholar Profile](https://scholar.google.com.hk/citations?user=5nE58tAAAAAJ&hl=zh-CN&newwindow=1).
 
 
 <style>
@@ -46,6 +46,7 @@ function toggleBibtex(articleid) {
 </script>
 
 
+<div style='display: none'>
 ## Preprints
 <ol class="biblist">
 
@@ -130,8 +131,7 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 
 </ol>
 
-
-
+</div>
 
 
 
@@ -139,58 +139,59 @@ Tianfu Li, <b>Zhibin Zhao</b>, Chuang Sun, Li Cheng, Xuefeng Chen, Ruqiang Yan a
 <ol class="biblist">
 
 
-<!-- Item: wu2020few -->
+<!-- Item: GHST -->
 <li ><p>
-<b>Few-shot Transfer Learning for Intelligent Fault Diagnosis of Machine</b><br>
-Jingyao Wu, <b>Zhibin Zhao</b>, Chuang Sun, Ruqiang Yan and Xuefeng Chen<br>
+<b>Generalized Horizontal Synchrosqueezing Transform: Algorithm and Applications</b><br>
+<b>Xiaotong Tu</b>, Qi Zhang, Zhoujie He, Yue Hu, Saqlain Abbas and Fucai Li<br>
 
-<i>arXiv preprint arXiv:2003.03315</i>,
+<i>IEEE Transactions on Industrial Electronics</i>,
 
 2020<br>
-<a href="javascript:toggleBibtex('wu2020few')" class="textlink">[bibtex]</a>
-<a href="https://www.sciencedirect.com/science/article/pii/S0263224120307405?via%3Dihub" class="textlink" target="_blank">[arXiv]</a>
-<a href="https://github.com/ZhaoZhibin/Few-shot-Transfer-Learning" class="textlink" target="_blank">[codes]</a>
+<a href="javascript:toggleBibtex('GHST')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9072355?casa_token=ny5psZfSKLoAAAAA:b0tYqiqCWNc2BZn3vi2bY4yQdD1XNisZcaITlEEiPFT7-d08N6UIXoeTm9FbDHuVP_onJ_B60g" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/tormii/GHST" class="textlink" target="_blank">[code]</a>
 </p>
 
-<div id="bib_wu2020few" class="bibtex noshow">
+<div id="GHST" class="bibtex noshow">
 <pre>
-@article{wu2020few,
-  title={Few-shot Transfer Learning for Intelligent Fault Diagnosis of Machine},
-  author={Wu, Jingyao and Zhao, Zhibin and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
-  journal={Measurement},
+@article{GHST,
+  title={Generalized Horizontal Synchrosqueezing Transform: Algorithm and Applications},
+  author={Tu, Xiaotong and Zhang, Qi and Li, Fucai},
+  journal={IEEE Transactions on Industrial Electronics},
   year={2020},
-  publisher={Elsevier}
+  publisher={IEEE}
 }
 </pre></div>
 </li>
 
 
-<!-- Item: williams2020discerning -->
+<!-- Item: HST -->
 <li ><p>
-<b>The discerning eye of computer vision: Can it measure Parkinson's finger tap bradykinesia?</b><br>
-Stefan Williams, <b>Zhibin Zhao</b>, Awais Hafeez, David C. Wong, Samuel D. Relton, Hui Fang, Jane E. Alty<br>
+<b>Horizontal Synchrosqueezing Transform: Algorithm and Applications</b><br>
+<b>Xiaotong Tu</b>, Zhoujie He, Yue Hu, Saqlain Abbas and Fucai Li<br>
 
 <i>Journal of the Neurological Sciences</i>,
 
 2020.<br>
-<a href="javascript:toggleBibtex('williams2020discerning')" class="textlink">[bibtex]</a>
-<a href="https://www.sciencedirect.com/science/article/pii/S0022510X20303403" class="textlink" target="_blank">[link]</a>
+<a href="javascript:toggleBibtex('HST')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/8950127" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/tormii/HST" class="textlink" target="_blank">[code]</a>
 
 </p>
 
-<div id="bib_williams2020discerning" class="bibtex noshow">
+<div id="HST" class="bibtex noshow">
 <pre>
-@article{williams2020discerning,
-  title={The discerning eye of computer vision: Can it measure Parkinson's finger tap bradykinesia?},
-  author={Williams, Stefan and Zhao, Zhibin and Hafeez, Awais and Wong, David C. and Relton, Samuel D. and Fang Hui and Alty Jane E.},
-  journal={Journal of the Neurological Sciences},
+@article{HST,
+  title={Horizontal Synchrosqueezing Transform: Algorithm and Applications},
+  author={Tu, Xiaotong and He, Zhoujie and Li, Fucai},
+  journal={IEEE Sensors Journal},
   year={2020},
-  publisher={Elsevier}
+  publisher={IEEE}
 }
 </pre></div>
 </li>
 
-
+<div style='display: none'>
 
 
 <!-- Item: li2020adaptive -->
@@ -728,40 +729,41 @@ Shibin Wang, Xuefeng Chen, Chaowei Tong and <b>Zhibin Zhao</b><br>
 </ol>
 
 
-
+</div>
 
 
 
 ## Conference Publications
 <ol class="biblist">
 
-<!-- Item: zhao2020the -->
+<!-- Item: SSET -->
 <li ><p>
-<b>The sparse and low-rank interpretation of SVD-based denoising for vibration signals</b><br>
-Shuming Wu, Xuefeng Chen, Pete Russhard, Ruqiang Yan, Shaohua Tian, Shibin Wang and <b>Zhibin Zhao</b><br>
+<b>The second order synchroextracting transform with application to bearing fault diagnosis under variable speed conditions</b><br>
+<b>Xiaotong Tu</b>, Zhoujie He, Yue Hu and Fucai Li <br>
 
-<i>2020 IEEE International Instrumentation and Measurement Technology Conference <b>(I2MTC)</b></i>,
+<i>Asia Pacific Conference of the Prognostics and Health Management Society 2019 </i>
 
 2019.<br>
-<a href="javascript:toggleBibtex('zhao2020the')" class="textlink">[bibtex]</a>
-<a href="https://ieeexplore.ieee.org/document/9129272" class="textlink" target="_blank">[link]</a>
+<a href="javascript:toggleBibtex('SSET')" class="textlink">[bibtex]</a>
+<a href="https://www.researchgate.net/publication/334635135_The_Second_Order_Synchroextracting_Transform_with_Application_to_Bearing_Fault_Diagnosis_under_Variable_Speed_Condition" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/tormii/SSET" class="textlink" target="_blank">[code]</a>
 </p>
 
-<div id="bib_zhao2020the" class="bibtex noshow">
+<div id="SSET" class="bibtex noshow">
 <pre>
-@inproceedings{zhao2020the,
-  title={The sparse and low-rank interpretation of SVD-based denoising for vibration signals},
-  author={Zhao, Zhibin and Wang, Shibin and Wong, David and Guo, Yanjie and Chen, Xuefeng},
-  booktitle={2020 IEEE International Instrumentation and Measurement Technology Conference (I2MTC)},
-  pages={1--5},
-  year={2020},
-  organization={IEEE}
+@inproceedings{SSET,
+  title={The second order synchroextracting transform with application to bearing fault diagnosis under variable speed conditions},
+  author={Tu, Xiaotong and He, Zhoujie and Li, Fucai},
+  booktitle={Asia Pacific Conference of the Prognostics and Health Management Society 2019},
+  pages={306--309},
+  year={2019},
+  organization={Beihang University}
 }
 </pre></div>
 </li>
 
 
-
+<div style='display: none'>
 
 <!-- Item: wu2019blade -->
 <li ><p>
@@ -963,3 +965,4 @@ Junwei Wang, Chuang Sun, <b>Zhibin Zhao</b> and Xuefeng Chen<br>
 </li>
 
 </ol>
+</div>
