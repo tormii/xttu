@@ -118,7 +118,7 @@ function toggleBibtex(articleid) {
 <b>The second order synchroextracting transform with application to bearing fault diagnosis under variable speed conditions</b><br>
 <b>Xiaotong Tu</b>, Zhoujie He, Yue Hu and Fucai Li <br>
 
-<i>Asia Pacific Conference of the Prognostics and Health Management Society 2019 </i>
+<i>Asia Pacific Conference of the Prognostics and Health Management Society 2019, </i>
 
 2019.<br>
 <a href="javascript:toggleBibtex('SSET')" class="textlink">[bibtex]</a>
