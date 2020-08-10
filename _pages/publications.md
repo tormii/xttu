@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also browse my [Google Scholar Profile](https://scholar.google.com.hk/citations?user=5nE58tAAAAAJ&hl=zh-CN&newwindow=1).
+You can also browse my [Google Scholar Profile](https://scholar.google.com.hk/citations?user=5nE58tAAAAAJ&hl=zh-CN&newwindow=1) or [ResearchGate](https://www.researchgate.net/profile/Xiaotong_Tu2) for complete list.
 
 
 <style>
@@ -56,9 +56,9 @@ function toggleBibtex(articleid) {
 <b>Generalized Horizontal Synchrosqueezing Transform: Algorithm and Applications</b><br>
 <b>Xiaotong Tu</b>, Qi Zhang, Zhoujie He, Yue Hu, Saqlain Abbas and Fucai Li<br>
 
-<i>IEEE Transactions on Industrial Electronics</i>,
+<i>IEEE Transactions on Industrial Electronics</i>, 
 
-2020<br>
+2020, <b>(JCR 1区)</b><br>
 <a href="javascript:toggleBibtex('GHST')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/9072355?casa_token=ny5psZfSKLoAAAAA:b0tYqiqCWNc2BZn3vi2bY4yQdD1XNisZcaITlEEiPFT7-d08N6UIXoeTm9FbDHuVP_onJ_B60g" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/tormii/GHST" class="textlink" target="_blank">[code]</a>
@@ -84,7 +84,7 @@ function toggleBibtex(articleid) {
 
 <i>IEEE Sensors Journal</i>,
 
-2020.<br>
+2020, <b>(JCR 3区)</b><br>
 <a href="javascript:toggleBibtex('HST')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/document/8950127" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/tormii/HST" class="textlink" target="_blank">[code]</a>
@@ -102,6 +102,121 @@ function toggleBibtex(articleid) {
 }
 </pre></div>
 </li>
+
+<!-- Item: GWST -->
+<li ><p>
+<b>Generalized Wavelet-based Synchrosqueezing Transform: Algorithm and Applications</b><br>
+<b>Xiaotong Tu</b>, Yue Hu, Saqlain Abbas andd Fucai Li<br>
+
+<i>Structural Health Monitoring</i>,
+
+2020, <b>(JCR 2区)</b><br>
+<a href="javascript:toggleBibtex('GWST')" class="textlink">[bibtex]</a>
+<a href="https://journals.sagepub.com/doi/abs/10.1177/1475921720906112?casa_token=Gy72bhaUNNIAAAAA:ZG7NbXqzVBHVpTEXw6GZtmyN1hZ0qEGwfbDWD8ZPSl6BK0nb2mrIGDggrPIKH0UtDHbFY3T5cXfVsg" class="textlink" target="_blank">[link]</a>
+
+
+</p>
+
+<div id="bib_GWST" class="bibtex noshow">
+<pre>
+@article{HST,
+  title={Generalized Wavelet-based Synchrosqueezing Transform: Algorithm and Applications},
+  author={Tu, Xiaotong and Hu, Yue and  Saqlain, Abbas and Li, Fucai},
+  journal={Structural Health Monitoring},
+  year={2020},
+  publisher={SAGE}
+}
+</pre></div>
+</li>
+
+<!-- Item: DHST -->
+<li ><p>
+<b>Demodulated High-Order Synchrosqueezing Transform With Application to Machine Fault Diagnosis</b><br>
+<b>Xiaotong Tu</b>, Yue Hu, Fucai Li, Saqlain Abbas, Zhen Liu and Wenjie Bao<br>
+
+<i>IEEE Transactions on Industrial Electronics</i>,
+
+2019, <b>(JCR 1区)</b><br>
+<a href="javascript:toggleBibtex('DHST')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/document/8392538" class="textlink" target="_blank">[link]</a>
+
+
+</p>
+
+<div id="bib_DHST" class="bibtex noshow">
+<pre>
+@article{DHST,
+  title={Horizontal Synchrosqueezing Transform: Algorithm and Applications},
+  author={Tu, Xiaotong and Hu, Yue and Li, Fucai and  Saqlain, Abbas  and Liu, Zhen and Bao, Wenjie },
+  journal={IEEE Transactions on Industrial Electronics},
+  volume={66},
+  number={4},
+  pages={3071-3081},
+  year={2019},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+<!-- Item: PST -->
+<li ><p>
+<b> Parameterized Synchrosqueezing Transform with Application to Machine Fault Diagnosis</b><br>
+<b>Xiaotong Tu</b>, Wenjie Bao, Yue Hu, Saqlain Abbas and Fucai Li<br>
+
+<i>IEEE Sensors Journal</i>,
+
+2019, <b>(JCR 3区)</b><br>
+<a href="javascript:toggleBibtex('PST')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8725508?casa_token=USUbRkpS7TIAAAAA:8Nwqmw3G7a3nRXXVuxtWZIL8pPgWhLhkxIbNyy5bK-qjEIiVR1C5rO-fxOJ1vNQ6emeYuwG1dg" class="textlink" target="_blank">[link]</a>
+
+
+</p>
+
+<div id="bib_PST" class="bibtex noshow">
+<pre>
+@article{HST,
+  title={Parameterized Synchrosqueezing Transform with Application to Machine Fault Diagnosis},
+  author={Tu, Xiaotong and Bao, Wenjie and Hu, Yue and Saqlain, Abbas and Li, Fucai},
+  journal={IEEE Sensors Journal},
+  volume={19},
+  number={18},
+  pages={8107-8115},
+  year={2019},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
+
+<!-- Item: MPCT -->
+<li ><p>
+<b> Instantaneous Frequency Estimation for Nonlinear FM Signal based on Modified Polynomial Chirplet Transform</b><br>
+<b>Xiaotong Tu</b>, Yue Hu, Fucai Li, Saqlain Abbas and Yang Liu<br>
+
+<i>IEEE Transactions on Instrumentation and Measurement</i>,
+
+2017, <b>(JCR 3区)</b><br>
+<a href="javascript:toggleBibtex('MPCT')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/8725508?casa_token=USUbRkpS7TIAAAAA:8Nwqmw3G7a3nRXXVuxtWZIL8pPgWhLhkxIbNyy5bK-qjEIiVR1C5rO-fxOJ1vNQ6emeYuwG1dg" class="textlink" target="_blank">[link]</a>
+
+
+</p>
+
+<div id="bib_MPCT" class="bibtex noshow">
+<pre>
+@article{MPCT,
+  title={Instantaneous Frequency Estimation for Nonlinear FM Signal based on Modified Polynomial Chirplet Transform},
+  author={Tu, Xiaotong and Hu, Yue and Saqlain, Abbas and Li, Fucai},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={66},
+  number={11},
+  pages={2898-2908},
+  year={2017},
+  publisher={IEEE}
+}
+</pre></div>
+</li>
+
 
 </ol>
 
@@ -132,9 +247,60 @@ function toggleBibtex(articleid) {
   title={The second order synchroextracting transform with application to bearing fault diagnosis under variable speed conditions},
   author={Tu, Xiaotong and He, Zhoujie and Li, Fucai},
   booktitle={Asia Pacific Conference of the Prognostics and Health Management Society 2019},
-  pages={306--309},
+  pages={306-309},
   year={2019},
   organization={Beihang University}
+}
+</pre></div>
+</li>
+
+<!-- Item: TFA -->
+<li ><p>
+<b>Current-Aided Time-Frequency Analysis of Vibration Signals for Gearbox Fault Diagnosis</b><br>
+<b>Xiaotong Tu</b>, Yue Hu and Fucai Li <br>
+
+<i>ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, </i>
+
+2018.<br>
+<a href="javascript:toggleBibtex('TFA')" class="textlink">[bibtex]</a>
+<a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings/IDETC-CIE2018/51852/V008T10A039/275257" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_TFA" class="bibtex noshow">
+<pre>
+@inproceedings{TFA,
+  title={Current-Aided Time-Frequency Analysis of Vibration Signals for Gearbox Fault Diagnosis},
+  author={Tu, Xiaotong and Hu, Yue and Li, Fucai},
+  booktitle={ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference},
+  pages={1-6},
+  year={2018},
+  organization={ASME}
+}
+</pre></div>
+</li>
+
+<!-- Item: EEWT -->
+<li ><p>
+<b>Enhanced Empirical Wavelet Transform with Application to Rolling Bearings Fault Diagnosis</b><br>
+<b>Xiaotong Tu</b>, Yue Hu and Fucai Li <br>
+
+<i>The 11th International Workshop on Structure Health Monitoring, </i>
+
+2017.<br>
+<a href="javascript:toggleBibtex('EEWT')" class="textlink">[bibtex]</a>
+<a href="https://www.researchgate.net/publication/320258371_Enhanced_Empirical_Wavelet_Transform_with_Application_to_Rolling_Bearings_Fault_Diagnosis" class="textlink" target="_blank">[link]</a>
+
+</p>
+
+<div id="bib_EEWT" class="bibtex noshow">
+<pre>
+@inproceedings{EEWT,
+  title={Enhanced Empirical Wavelet Transform with Application to Rolling Bearings Fault Diagnosis},
+  author={Tu, Xiaotong and Hu, Yue and Li, Fucai},
+  booktitle={The 11th International Workshop on Structure Health Monitoring},
+  year={2017},
+  organization={DEStech}
 }
 </pre></div>
 </li>
