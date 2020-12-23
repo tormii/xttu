@@ -51,6 +51,36 @@ function toggleBibtex(articleid) {
 <ol class="biblist">
 
 
+<!-- Item: NCME -->
+<li ><p>
+<b>Estimating Nonlinear Chirp Modes Exploiting Sparsity</b><br>
+<b>Xiaotong Tu</b>, Johan Swärd, Andreas Jakobsson, and Fucai Li<br>
+
+<i>Signal Processing</i>, 
+
+2020, <b>(JCR 2区)</b><br>
+<a href="javascript:toggleBibtex('NCME')" class="textlink">[bibtex]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9072355?casa_token=ny5psZfSKLoAAAAA:b0tYqiqCWNc2BZn3vi2bY4yQdD1XNisZcaITlEEiPFT7-d08N6UIXoeTm9FbDHuVP_onJ_B60g" class="textlink" target="_blank">
+
+<div style='display: none'>
+[link]</a>
+<a href="https://github.com/tormii/NCME" class="textlink" target="_blank">[code]</a>
+</p>
+
+</div>
+
+<div id="bib_NCME" class="bibtex noshow">
+<pre>
+@article{GHST,
+  title={Generalized Horizontal Synchrosqueezing Transform: Algorithm and Applications},
+  author={Tu, Xiaotong and Johan Swärd, Andreas Jakobsson, and Li, Fucai},
+  journal={Signal processing},
+  year={2020},
+  publisher={Elsevier}
+}
+</pre></div>
+</li>
+
 <!-- Item: GHST -->
 <li ><p>
 <b>Generalized Horizontal Synchrosqueezing Transform: Algorithm and Applications</b><br>
@@ -233,7 +263,7 @@ function toggleBibtex(articleid) {
 <b>The second order synchroextracting transform with application to bearing fault diagnosis under variable speed conditions</b><br>
 <b>Xiaotong Tu</b>, Zhoujie He, Yue Hu and Fucai Li <br>
 
-<i>Asia Pacific Conference of the Prognostics and Health Management Society 2019, </i>
+<i>Asia Pacific Conference of the Prognostics and Health Management Society 2019, Beijing, China</i>
 
 2019.<br>
 <a href="javascript:toggleBibtex('SSET')" class="textlink">[bibtex]</a>
@@ -259,7 +289,7 @@ function toggleBibtex(articleid) {
 <b>Current-Aided Time-Frequency Analysis of Vibration Signals for Gearbox Fault Diagnosis</b><br>
 <b>Xiaotong Tu</b>, Yue Hu and Fucai Li <br>
 
-<i>ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, </i>
+<i>ASME 2018 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, Quebec City, Canada</i>
 
 2018.<br>
 <a href="javascript:toggleBibtex('TFA')" class="textlink">[bibtex]</a>
@@ -285,7 +315,7 @@ function toggleBibtex(articleid) {
 <b>Enhanced Empirical Wavelet Transform with Application to Rolling Bearings Fault Diagnosis</b><br>
 <b>Xiaotong Tu</b>, Yue Hu and Fucai Li <br>
 
-<i>The 11th International Workshop on Structure Health Monitoring, </i>
+<i>The 11th International Workshop on Structure Health Monitoring, California, USA</i>
 
 2017.<br>
 <a href="javascript:toggleBibtex('EEWT')" class="textlink">[bibtex]</a>

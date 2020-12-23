@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaotong Tu (涂晓彤)"
 title_separator          : "-"
 name                     : &name "Xiaotong Tu"
-description              : &description "Ph.D. Student, School of Mechanical Engineering, Shanghai Jiao Tong University"
+description              : &description "Assistant Professor, School of Informatics, Xiamen University"
 url                      : https://tormii.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tormii/tormii.github.io"
@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Xiaotong Tu"
   avatar           : "Tallinn.jpg"
-  bio              : "Ph.D. candidate, School of Mechanical Engineering, Shanghai Jiao Tong University"
-  location         : "Shanghai, CHN"
+  bio              : "Assistant Professor, School of Informatics, Xiamen University"
+  location         : "Xiamen, CHN"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=5nE58tAAAAAJ&hl=zh-CN&newwindow=1"
-  email            : "tormii@sjtu.edu.cn"
+  email            : "xttu@xmu.edu.cn"
   researchgate     :  "https://www.researchgate.net/profile/Xiaotong_Tu2"
   uri              :
   bitbucket        :
