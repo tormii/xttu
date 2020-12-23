@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-* I am currently an assistant professor in the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Fujian, China and also the member of [Smart DSP Lab](https://xmu-smartdsp.github.io/index.html). I received my Ph.D. degree form [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) supervised by Prof. [Fucai Li](http://me.sjtu.edu.cn/teacher_directory1/2280.html). During my PhD, I spend half year at [Lund University](https://www.lunduniversity.lu.se/), Sweden from Sep. 2019 to Feb. 2020, with Prof. [Andreas Jakobsson](http://www.maths.lu.se/staff/andreas-jakobsson/). In 2014  I received my Bachelor’s degree from [Northeastern University](http://www.neu.edu.cn/).
+* I am currently an assistant professor in the [School of Informatics](https://informatics.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/), Fujian, China and also the member of [Smart DSP Lab](https://xmu-smartdsp.github.io/index.html). I received my Ph.D. degree in 2020 form [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) supervised by Prof. [Fucai Li](http://me.sjtu.edu.cn/teacher_directory1/2280.html). During my PhD, I spent half year at [Lund University](https://www.lunduniversity.lu.se/), Sweden from Sep. 2019 to Feb. 2020, with Prof. [Andreas Jakobsson](http://www.maths.lu.se/staff/andreas-jakobsson/). In 2014, I received my Bachelor’s degree from [Northeastern University](http://www.neu.edu.cn/).
 
 
 ## Research Interests
