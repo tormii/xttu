@@ -60,19 +60,12 @@ function toggleBibtex(articleid) {
 
 2020, <b>(JCR 2区)</b><br>
 <a href="javascript:toggleBibtex('NCME')" class="textlink">[bibtex]</a>
-<a href="https://ieeexplore.ieee.org/abstract/document/9072355?casa_token=ny5psZfSKLoAAAAA:b0tYqiqCWNc2BZn3vi2bY4yQdD1XNisZcaITlEEiPFT7-d08N6UIXoeTm9FbDHuVP_onJ_B60g" class="textlink" target="_blank">
-
-<div style='display: none'>
-[link]</a>
-<a href="https://github.com/tormii/NCME" class="textlink" target="_blank">[code]</a>
 </p>
-
-</div>
 
 <div id="bib_NCME" class="bibtex noshow">
 <pre>
 @article{GHST,
-  title={Generalized Horizontal Synchrosqueezing Transform: Algorithm and Applications},
+  title={Estimating Nonlinear Chirp Modes Exploiting Sparsity},
   author={Tu, Xiaotong and Johan Swärd, Andreas Jakobsson, and Li, Fucai},
   journal={Signal processing},
   year={2020},
