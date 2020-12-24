@@ -13,7 +13,7 @@ redirect_from:
 
 
 ## Research Interests
-My research interests are mainly in nonstationary signal processing, computational imaging, fault diagnosis, and motion detection. 
+* My research interests are mainly in nonstationary signal processing, computational imaging, fault diagnosis, and motion detection. 
 
 
 ## Recent News
