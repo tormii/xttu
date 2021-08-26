@@ -22,8 +22,8 @@ redirect_from:
 
 
 ## 教学工作 Teaching
-*数字信号处理实训 / Intelligent Signal Processing with Applications （本科生课程）
-*数字图像处理 / Digital Image Processing (研究生课程)
+* 数字信号处理实训 / Intelligent Signal Processing with Applications （本科生课程）
+* 数字图像处理 / Digital Image Processing (研究生课程)
 ## Recent News
 * December 22th, 2020<br> 
 One paper titled "Estimating Nonlinear Chirp Modes Exploiting Sparsity" was accepted by [Signal Processing](https://www.sciencedirect.com/journal/signal-processing).
