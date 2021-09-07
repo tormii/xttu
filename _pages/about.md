@@ -25,6 +25,8 @@ redirect_from:
 * 数字信号处理实训 / Intelligent Signal Processing with Applications （本科生课程）
 * 数字图像处理 / Digital Image Processing (研究生课程)
 ## Recent News
+* September 7th, 2021<br> 
+I will offer more than **5** master's programs next year.（2022年，招收**5**名硕士研究生）
 * December 22th, 2020<br> 
 One paper titled "Estimating Nonlinear Chirp Modes Exploiting Sparsity" was accepted by [Signal Processing](https://www.sciencedirect.com/journal/signal-processing).
 * July 13th, 2020<br> 
