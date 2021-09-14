@@ -16,9 +16,11 @@ redirect_from:
 * My research interests are mainly in nonstationary signal processing, computational imaging, fault diagnosis, and machine learning. 
 
 ## 科研项目 Research Grants
-* 	稀疏时频估计理论及其在机械故障诊断中的应用，国家自然科学基金青年基金 (项目编号：5210050399)，2022年1月-2024年12月，主持，**万元<br> 
+* 	稀疏时频估计理论及其在机械故障诊断中的应用，国家自然科学基金青年基金 (项目编号：5210050399)，2022年1月-2024年12月，主持，**万元。<br> 
     Research on sparse time-frequency estimation with application to mechanical fault diagnosis，National Natural Science Foundation of China Youth Fund (No.5210050399), 2022.01-2024.12 (PI).
-* 高分辨声源定位方法及其硬件实现方案研究，中央高校基本科研项目（项目编号：20720210071），2021年1月-2021年12月，主持，*万元
+* 高分辨声源定位方法及其硬件实现方案研究，中央高校基本科研项目（项目编号：20720210071），2021年1月-2021年12月，主持，*万元。
+* 自适应稀疏时频分解方法及其在机械故障诊断中的应用, 福建省自然科学基金，2021年8月-2024年8月，主持，*万元。<br>
+  Research on adaptive sparse time-frequency decomposition with application to mechanical fault diagnosis, Natural Science Foundation of Fujian Province of China，2021.08-2024.08 (PI).
 
 
 ## 教学工作 Teaching
