@@ -21,10 +21,15 @@ redirect_from:
 * 高分辨声源定位方法及其硬件实现方案研究，中央高校基本科研项目（项目编号：20720210071），2021年1月-2021年12月，主持，*万元。
 * 自适应稀疏时频分解方法及其在机械故障诊断中的应用, 福建省自然科学基金，2021年8月-2024年8月，主持，*万元。<br>
   Research on adaptive sparse time-frequency decomposition with application to mechanical fault diagnosis, Natural Science Foundation of Fujian Province of China，2021.08-2024.08 (PI).
+*  面向设备健康状态监测的自监督信号特征表示理论研究，上海交通大学船舰设备噪声与振动控制技术国防重点学科实验室,2021年07月-2022年06月，主持，*万元。<br>
+Research on self-supervised signal representation for equipment health monitoring, Shanghai Jiao Tong University, 2021.07-2022.06 (PI).
+* 基于无人机和图像识别技术的输变电工程高空作业智能化监控研究与应用，国网福建省电力有限公司，2021年9月-2022年3月，共同主持，**万元
+
+
 
 
 ## 教学工作 Teaching
-* 数字信号处理实训 / Intelligent Signal Processing with Applications （本科生课程）
+* 数字信号处理实训 / Intelligent Signal Processing with Practice （本科生课程）
 * 数字图像处理 / Digital Image Processing (研究生课程)
 ## Recent News
 * September 7th, 2021<br> 
