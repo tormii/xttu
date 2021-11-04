@@ -14,15 +14,17 @@ We are seeking <b>2-3</b> passionate and highly self-motivated master students t
 ## Master students
 
 
- ### 2022
+### 2022
  * Xiaolu Chen
  * Chenyu Ma
- ### 2021
+
+### 2021
 * Yiyang Liu
 * Yijin Mao
 * Jie Zhong
 * Yonghua Zhang
 * Chanxing Lai
+  
 ### 2020
 * Hao Liang (co-supervise with Prof. Xinghao Ding)
 * Guanxing Zhou (co-supervise with Prof. Xinghao Ding)
