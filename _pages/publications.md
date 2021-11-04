@@ -49,7 +49,20 @@ function toggleBibtex(articleid) {
 
 ## Journal Publications
 <ol class="biblist">
+<!-- Item: FFT-DFISTA -->
+<li ><p>
+<b>High-Resolution Source Localization Exploiting the Sparsity of the Beamforming Map</b><br>
+Xinghao Ding, Hao Liang, Andreas Jakobsson, <b>Xiaotong Tu*</b>and Yue Huang<br>
 
+<i>Signal Processing</i>, 
+
+2021, <b>(中科院 2区)</b><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S016516842100414X" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/HauLiang/FFT-DFISTA-and-FFT-DADMM" class="textlink" target="_blank">[code]</a>
+</p>
+
+
+</li>
 
 <!-- Item: NCME -->
 <li ><p>
@@ -58,8 +71,10 @@ function toggleBibtex(articleid) {
 
 <i>Signal Processing</i>, 
 
-2020, <b>(JCR 2区)</b><br>
+2020, <b>(中科院 2区)</b><br>
 <a href="javascript:toggleBibtex('NCME')" class="textlink">[bibtex]</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0165168420304965?casa_token=eAHj8_WbHs8AAAAA:m_s5h51LWlLtO_n17JUChdOH1aWrXAKCQd69XhhkIjxvkbGwlSlB9mIwpbIGxZIgTlxWL-hcxho" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/tormii/NCME" class="textlink" target="_blank">[code]</a>
 </p>
 
 <div id="bib_NCME" class="bibtex noshow">
@@ -81,7 +96,7 @@ function toggleBibtex(articleid) {
 
 <i>IEEE Transactions on Industrial Electronics</i>, 
 
-2020, <b>(JCR 1区)</b><br>
+2020, <b>(中科院 1区)</b><br>
 <a href="javascript:toggleBibtex('GHST')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/9072355?casa_token=ny5psZfSKLoAAAAA:b0tYqiqCWNc2BZn3vi2bY4yQdD1XNisZcaITlEEiPFT7-d08N6UIXoeTm9FbDHuVP_onJ_B60g" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/tormii/GHST" class="textlink" target="_blank">[code]</a>
@@ -107,7 +122,7 @@ function toggleBibtex(articleid) {
 
 <i>IEEE Sensors Journal</i>,
 
-2020, <b>(JCR 3区)</b><br>
+2020, <b>(中科院 3区)</b><br>
 <a href="javascript:toggleBibtex('HST')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/document/8950127" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/tormii/HST" class="textlink" target="_blank">[code]</a>
@@ -133,7 +148,7 @@ function toggleBibtex(articleid) {
 
 <i>Structural Health Monitoring</i>,
 
-2020, <b>(JCR 2区)</b><br>
+2020, <b>(中科院 2区)</b><br>
 <a href="javascript:toggleBibtex('GWST')" class="textlink">[bibtex]</a>
 <a href="https://journals.sagepub.com/doi/abs/10.1177/1475921720906112?casa_token=Gy72bhaUNNIAAAAA:ZG7NbXqzVBHVpTEXw6GZtmyN1hZ0qEGwfbDWD8ZPSl6BK0nb2mrIGDggrPIKH0UtDHbFY3T5cXfVsg" class="textlink" target="_blank">[link]</a>
 
@@ -159,7 +174,7 @@ function toggleBibtex(articleid) {
 
 <i>IEEE Transactions on Industrial Electronics</i>,
 
-2019, <b>(JCR 1区)</b><br>
+2019, <b>(中科院 1区)</b><br>
 <a href="javascript:toggleBibtex('DHST')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/document/8392538" class="textlink" target="_blank">[link]</a>
 
@@ -188,7 +203,7 @@ function toggleBibtex(articleid) {
 
 <i>IEEE Sensors Journal</i>,
 
-2019, <b>(JCR 3区)</b><br>
+2019, <b>(中科院 3区)</b><br>
 <a href="javascript:toggleBibtex('PST')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8725508?casa_token=USUbRkpS7TIAAAAA:8Nwqmw3G7a3nRXXVuxtWZIL8pPgWhLhkxIbNyy5bK-qjEIiVR1C5rO-fxOJ1vNQ6emeYuwG1dg" class="textlink" target="_blank">[link]</a>
 
@@ -218,7 +233,7 @@ function toggleBibtex(articleid) {
 
 <i>IEEE Transactions on Instrumentation and Measurement</i>,
 
-2017, <b>(JCR 3区)</b><br>
+2017, <b>(中科院 3区)</b><br>
 <a href="javascript:toggleBibtex('MPCT')" class="textlink">[bibtex]</a>
 <a href="https://ieeexplore.ieee.org/abstract/document/8725508?casa_token=USUbRkpS7TIAAAAA:8Nwqmw3G7a3nRXXVuxtWZIL8pPgWhLhkxIbNyy5bK-qjEIiVR1C5rO-fxOJ1vNQ6emeYuwG1dg" class="textlink" target="_blank">[link]</a>
 
