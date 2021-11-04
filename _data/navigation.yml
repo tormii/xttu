@@ -6,7 +6,10 @@ main:
 
   - title: "Publications"
     url: /publications/
-
+  
+  - title: "Group"
+    url: /terms/
+    
   - title: "Codes"
     url: /codes/
 
