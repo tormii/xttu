@@ -23,7 +23,7 @@ We are seeking <b>2-3</b> passionate and highly self-motivated master students t
 * Yijin Mao
 * Jie Zhong
 * Yonghua Zhang
-* Chanxing Lai
+* Canxing Lai
   
 ### 2020
 * Hao Liang (co-supervise with Prof. Xinghao Ding)
