@@ -265,6 +265,32 @@ Xinghao Ding, Hao Liang, Andreas Jakobsson, <b>Xiaotong Tu*</b>and Yue Huang<br>
 
 ## Conference Publications
 <ol class="biblist">
+<!-- Item: AVNCMD -->
+<li ><p>
+<b>Adaptive Variational nonlinear chirp mode decomposition</b><br>
+Hao Liang, Xinghao Ding, Andreas Jakobsson, <b>Xiaotong Tu*</b>, and Yue Huang <br>
+
+<i>2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore</i>
+
+2022.<br>
+
+<a href="https://www.researchgate.net/publication/358021100_ADAPTIVE_VARIATIONAL_NONLINEAR_CHIRP_MODE_DECOMPOSITION" class="textlink" target="_blank">[link]</a>
+<a href="https://github.com/HauLiang/AVNCMD" class="textlink" target="_blank">[code]</a>
+</p>
+
+<div id="bib_SSET" class="bibtex noshow">
+<pre>
+@inproceedings{SSET,
+  title={The second order synchroextracting transform with application to bearing fault diagnosis under variable speed conditions},
+  author={Tu, Xiaotong and He, Zhoujie and Li, Fucai},
+  booktitle={Asia Pacific Conference of the Prognostics and Health Management Society 2019},
+  pages={306-309},
+  year={2019},
+  organization={Beihang University}
+}
+</pre></div>
+</li>
+
 
 <!-- Item: SSET -->
 <li ><p>
