@@ -33,11 +33,12 @@ Research on self-supervised signal representation for equipment health monitorin
 * 数字信号处理实训 / Intelligent Signal Processing with Practice （本科生课程）
 * 数字图像处理 / Digital Image Processing (研究生课程)
 ## 设备 Equipment
-* 无人机-红外与可见光采集
+* 无人机-红外与可见光采集<br>
 [![bD0YdJ.md.jpg](https://s1.ax1x.com/2022/03/06/bD0YdJ.md.jpg)](https://imgtu.com/i/bD0YdJ)
-* 声像仪
-* RTX3090显卡
-* 移动工作站
+* 声像仪-阵列信号采集，声源识别定位<br>
+[![bri9zD.md.jpg](https://s1.ax1x.com/2022/03/06/bri9zD.md.jpg)](https://imgtu.com/i/bri9zD)<br>
+* RTX 3090显卡-科研生产力
+* 移动工作站-实验小能手
 
 ## Recent News
 * September 7th, 2021<br> 
