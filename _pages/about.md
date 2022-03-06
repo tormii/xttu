@@ -16,8 +16,8 @@ redirect_from:
 * My research interests are mainly in nonstationary signal processing, computational imaging, fault diagnosis, and machine learning. 
 
 ## 科研项目 Research Grants
-* 	稀疏时频估计理论及其在机械故障诊断中的应用，国家自然科学基金青年基金 (项目编号：5210050399)，2022年1月-2024年12月，主持，**万元。<br> 
-    Research on sparse time-frequency estimation with application to mechanical fault diagnosis，National Natural Science Foundation of China Youth Fund (No.5210050399), 2022.01-2024.12 (PI).
+* 	稀疏时频估计理论及其在机械故障诊断中的应用，国家自然科学基金青年基金 (项目编号：52105126)，2022年1月-2024年12月，主持，**万元。<br> 
+    Research on sparse time-frequency estimation with application to mechanical fault diagnosis，National Natural Science Foundation of China Youth Fund (No.52105126), 2022.01-2024.12 (PI).
 * 高分辨声源定位方法及其硬件实现方案研究，中央高校基本科研项目（项目编号：20720210071），2021年1月-2021年12月，主持，*万元。
 * 自适应稀疏时频分解方法及其在机械故障诊断中的应用, 福建省自然科学基金，2021年8月-2024年8月，主持，*万元。<br>
   Research on adaptive sparse time-frequency decomposition with application to mechanical fault diagnosis, Natural Science Foundation of Fujian Province of China，2021.08-2024.08 (PI).
@@ -32,6 +32,13 @@ Research on self-supervised signal representation for equipment health monitorin
 ## 教学工作 Teaching
 * 数字信号处理实训 / Intelligent Signal Processing with Practice （本科生课程）
 * 数字图像处理 / Digital Image Processing (研究生课程)
+## 设备 Equipment
+* 无人机-红外与可见光采集
+[![bD0YdJ.md.jpg](https://s1.ax1x.com/2022/03/06/bD0YdJ.md.jpg)](https://imgtu.com/i/bD0YdJ)
+* 声像仪
+* RTX3090显卡
+* 移动工作站
+
 ## Recent News
 * September 7th, 2021<br> 
 I will offer more than **5** master's programs next year.（2022年，招收**5**名硕士研究生）
