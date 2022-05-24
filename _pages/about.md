@@ -48,5 +48,6 @@ I will offer more than **5** master's programs next year.（2022年，招收**5*
 * December 22th, 2020<br> 
 One paper titled "Estimating Nonlinear Chirp Modes Exploiting Sparsity" was accepted by [Signal Processing](https://www.sciencedirect.com/journal/signal-processing).
 * July 13th, 2020<br> 
-One paper titled "Bayesian estimation of instantaneous speed for rotating machinery fault diagnosis" was accepted by [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41).
+One paper titled "Bayesian estimation of instantaneous speed for rotating machinery fault diagnosis" was accepted by [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41). <br>  
 
+<center> <a href="https://clustrmaps.com/site/1bol2"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=zY5YBGb8Z3Dc_c8D412kGJifRG-OEw_aOFbPI1-AmBY&cl=ffffff" /></a></center>
