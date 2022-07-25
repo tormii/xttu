@@ -16,17 +16,18 @@ redirect_from:
 * My research interests are mainly in nonstationary signal processing, computational imaging, fault diagnosis, and machine learning. 
 
 ## 科研项目 Research Grants
-* 	稀疏时频估计理论及其在机械故障诊断中的应用，国家自然科学基金青年基金 (项目编号：52105126)，2022年1月-2024年12月，主持，**万元。<br> 
+* 	[1] 稀疏时频估计理论及其在机械故障诊断中的应用，国家自然科学基金青年基金 (项目编号：52105126)，2022年1月-2024年12月，主持，**万元。<br> 
     Research on sparse time-frequency estimation with application to mechanical fault diagnosis，National Natural Science Foundation of China Youth Fund (No.52105126), 2022.01-2024.12 (PI).
-* 高分辨声源定位方法及其硬件实现方案研究，中央高校基本科研项目（项目编号：20720210071），2021年1月-2021年12月，主持，*万元。
-* 自适应稀疏时频分解方法及其在机械故障诊断中的应用, 福建省自然科学基金，2021年8月-2024年8月，主持，*万元。<br>
+* [2] 高分辨声源定位方法及其硬件实现方案研究，中央高校基本科研项目（项目编号：20720210071），2021年1月-2021年12月，主持，*万元。
+* [3] 自适应稀疏时频分解方法及其在机械故障诊断中的应用, 福建省自然科学基金，2021年8月-2024年8月，主持，*万元。<br>
   Research on adaptive sparse time-frequency decomposition with application to mechanical fault diagnosis, Natural Science Foundation of Fujian Province of China，2021.08-2024.08 (PI).
-*  面向设备健康状态监测的自监督信号特征表示理论研究，上海交通大学船舰设备噪声与振动控制技术国防重点学科实验室,2021年07月-2022年06月，主持，*万元。<br>
+*  [4] 面向设备健康状态监测的自监督信号特征表示理论研究，上海交通大学船舰设备噪声与振动控制技术国防重点学科实验室,2021年07月-2022年06月，主持，*万元。<br>
 Research on self-supervised signal representation for equipment health monitoring, Shanghai Jiao Tong University, 2021.07-2022.06 (PI).
-* 基于无人机和图像识别技术的输变电工程高空作业智能化监控研究与应用，国网福建省电力有限公司，2021年9月-2022年3月，共同主持，**万元。
-* AOI Dimple AI判读系统开发，友达光电（厦门）有限公司，2022年2月18日-2022年8月31日，主持，**万元
-* 无人机机载声像仪系统开发技术可行性论证研究，上市公司委托开发，2022年3月16日-2022年5月31日，主持，**万元。
-* 基于麦克风阵列的计算声成像算法研究，企业委托，2022年6月-2025年12月，主持，**万元
+* [5] 基于无人机和图像识别技术的输变电工程高空作业智能化监控研究与应用，国网福建省电力有限公司，2021年9月-2022年3月，共同主持，**万元。
+* [6] AOI Dimple AI判读系统开发，友达光电（厦门）有限公司，2022年2月18日-2022年8月31日，主持，**万元
+* [7] 无人机机载声像仪系统开发技术可行性论证研究，上市公司委托开发，2022年3月16日-2022年5月31日，主持，**万元。
+* [8] 基于麦克风阵列的计算声成像算法研究，企业委托，2022年6月-2025年12月，主持，**万元
+* [9] 基于正常样本生成的高效工业视觉表面异常检测方法研究，校长基金，2022年1月-2024年12，主持，**万元
 
 
 
