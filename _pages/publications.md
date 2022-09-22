@@ -56,7 +56,7 @@ Hao Liang, Xinghao Ding, Andreas Jakobsson, <b>Xiaotong Tu*</b>and Yue Huang<br>
 
 <i>The Journal of the Acoustical Society of America</i>, 
 
-2021, <b>(中科院 3区,CCF B)</b><br>
+2022, <b>(中科院 3区,CCF B)</b><br>
 <a href="https://www.sciencedirect.com/science/article/pii/S016516842100414X" class="textlink" target="_blank">[link]</a>
 <a href="https://github.com/HauLiang/NGDME" class="textlink" target="_blank">[code]</a>
 </p>
